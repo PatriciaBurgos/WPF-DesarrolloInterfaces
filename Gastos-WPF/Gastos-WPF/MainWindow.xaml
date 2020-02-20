@@ -1,0 +1,6 @@
+﻿<NavigationWindow x:Class="Gastos_WPF.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Patricia: GastosIT" Height="350" Width="500" Source="GastosHome.xaml">
+
+</NavigationWindow>
