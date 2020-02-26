@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\bin\Debug\ConversionTemperatura.exe.config
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\bin\Debug\ConversionTemperatura.exe
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\bin\Debug\ConversionTemperatura.pdb
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\MainWindow.g.cs
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\App.g.cs
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura_MarkupCompile.cache
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura_MarkupCompile.lref
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\MainWindow.baml
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.g.resources
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.Properties.Resources.resources
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.exe
+C:\Users\patri\source\repos\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.pdb
