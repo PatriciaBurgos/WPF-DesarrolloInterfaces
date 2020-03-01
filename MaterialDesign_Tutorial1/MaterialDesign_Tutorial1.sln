@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDesign_Tutorial1", "MaterialDesign_Tutorial1\MaterialDesign_Tutorial1.csproj", "{128644CB-8EFB-48EB-8329-A4051CDACD68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128644CB-8EFB-48EB-8329-A4051CDACD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128644CB-8EFB-48EB-8329-A4051CDACD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128644CB-8EFB-48EB-8329-A4051CDACD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128644CB-8EFB-48EB-8329-A4051CDACD68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37689163-442B-4AA9-830F-1A76BDD21273}
+	EndGlobalSection
+EndGlobal
