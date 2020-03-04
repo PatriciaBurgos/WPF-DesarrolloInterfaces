@@ -97,7 +97,7 @@
 			<materialDesign:Card Grid.Row="1" Grid.ColumnSpan ="4" Margin="16" materialDesign:ShadowAssist.ShadowDepth="Depth3" VerticalAlignment="Stretch">
 				<StackPanel Orientation="Horizontal" Margin="16">
 					<materialDesign:PackIcon Kind="TwitterBox" Height="64" Width="64" />
-					<TextBlock Margin="16 16 0 0" TextWrapping="Wrap">Hola, Porfavor sigueme en Twitter.</TextBlock>
+					<TextBlock Margin="16 16 0 0" TextWrapping="Wrap">Sigueme en Twitter.</TextBlock>
 				</StackPanel>
 			</materialDesign:Card>
 
@@ -105,12 +105,12 @@
 				<StackPanel Orientation="Horizontal" Margin="16">
 					<materialDesign:PackIcon Kind="TwitterBox" Height="64" Width="64" />
 					<TextBlock Margin="16 16 0 0"							   
-							   MinWidth="120" TextWrapping="Wrap">Hola, Porfavor sigueme en Twitter.</TextBlock>
+							   MinWidth="120" TextWrapping="Wrap">Sigueme en Twitter.</TextBlock>
 					<materialDesign:ColorZone Mode="Accent" CornerRadius="2" materialDesign:ShadowAssist.ShadowDepth="Depth1">
 						<StackPanel Orientation="Horizontal" Margin="16">
 							<materialDesign:PackIcon Kind="Magnify" VerticalAlignment="Center"/>
 							<TextBox Margin="8 0 0 0" 
-									 materialDesign:HintAssist.Hint="Porfavor busca..."									 
+									 materialDesign:HintAssist.Hint="Escribe un texto..."									 
 									 materialDesign:TextFieldAssist.DecorationVisibility="Collapsed"
 									 VerticalAlignment="Center"
 									 BorderThickness="0"
